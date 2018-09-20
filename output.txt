@@ -1,0 +1,8 @@
+The total amount of water in Keane is 183032.19 cubic meters of water.
+The total amount of water for each day is 6536.864 cubic meters of water.
+The total amount of water per person per day is 0.17366801 cubic meters of water.
+The total amount of water to save per day per person is 0.072331995 cubic meters of water.
+The total amount of water in Keane is 4.835198E7 gallons of water.
+The total amount of water for each day is 1726856.4 gallons of water.
+The total amount of water per person per day is 45.878227 gallons of water.
+The total amount of water to save per day per person is 19.108088 gallons of water.
